@@ -24,3 +24,15 @@
 ```bash
 git clone https://github.com/mlskt0226/blog-system.git
 cd blog-system
+
+##  Скриншоты
+
+(https://github.com/user-attachments/assets/66d9f480-5360-481a-82d9-6ae58303ae18)
+
+(https://github.com/user-attachments/assets/66d9f480-5360-481a-82d9-6ae58303ae18)
+
+(https://github.com/user-attachments/assets/b4773708-bf80-4eb3-a266-e2d4fccf7aab)
+
+(https://github.com/user-attachments/assets/8b35fbf4-da6f-4d47-82c9-26ea0d713368)
+
+<img width="1851" height="876" alt="Image" src="https://github.com/user-attachments/assets/5c9a7cbb-15a5-4143-ab45-dff08cbfaca3" />
